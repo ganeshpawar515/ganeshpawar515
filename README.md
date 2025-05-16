@@ -1,6 +1,6 @@
 👋 Hi, I’m @ganeshpawar515  
 👀 I’m passionate about programming, mostly using Python  
-🌱 Currently learning JavaScript, React, Android development, data analysis, and predictive modeling  
+🌱 Currently learning JavaScript, Computer Vision,React, data analysis, and predictive modeling  
 💞️ Looking to collaborate on projects involving Python/Django, data analysis, databases, and Android  
 📫 Reach me at: ganeshp.py07@gmail.com or [LinkedIn](https://linkedin.com/in/ganesh-pawar-36b61824a)
 
